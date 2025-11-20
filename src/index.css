@@ -1,0 +1,19 @@
+/* Import global fonts */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+  color: #333;
+}
+
+/* Define theme-specific font styles */
+.crm-theme {
+  font-family: 'Roboto', sans-serif;
+}
+
+.ai-theme {
+  font-family: 'Archivo', sans-serif;
+}
+
+.hosting-theme {
+  font-family: 'Figtree', sans-serif;
+}
